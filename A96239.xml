@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Assembly of Divines in England, and the commissioners of the Church of Scotland, written, and sent by order of the honorable House of Commons assembled in Parliament, to the Belgick, French, Helvetian, and other reformed churches. Translated into English, and now published with the severall inscriptions to those churches. By order of the said House.</title>
+            <title>Literae a Conventu Theologorum in Anglia et Ecclesiae Scoticanae delegatis. English</title>
+            <author>Westminster Assembly</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96239</idno>
+            <idno type="STC">Wing W1443</idno>
+            <idno type="STC">Thomason E39_7</idno>
+            <idno type="STC">ESTC R20514</idno>
+            <idno type="EEBO-CITATION">99864578</idno>
+            <idno type="PROQUEST">99864578</idno>
+            <idno type="VID">116809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96239)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116809)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E39[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Assembly of Divines in England, and the commissioners of the Church of Scotland, written, and sent by order of the honorable House of Commons assembled in Parliament, to the Belgick, French, Helvetian, and other reformed churches. Translated into English, and now published with the severall inscriptions to those churches. By order of the said House.</title>
+                  <title>Literae a Conventu Theologorum in Anglia et Ecclesiae Scoticanae delegatis. English</title>
+                  <author>Westminster Assembly</author>
+                  <author>Lauderdale, John Maitland, Duke of, 1616-1682.</author>
+                  <author>Church of Scotland. General Assembly.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>[4], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes, for Ralph Smith, and are to bee sold at his shop, at the signe of the Bible in Cornhill, neere the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An English translation of the Assembly's Literæ a Conventu Theologorum in Anglia et Ecclesiæ Scoticanæ delegatis.</note>
+                  <note>Signed: Jo. Maitland etc., commissioners of the Church of Scotland.</note>
+                  <note>The first leaf bears order to print dated 13 March 1643 [i.e. 1644].</note>
+                  <note>In this edition, line 4 of title reads: Assembly of Divines.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  History, (17th century) --  Early works to 1800.</term>
+               <term>Church of Scotland --  History, (17th century) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:116809:1"/>
+            <head>Die Mercurii, 22 Novemb. 1643.</head>
+            <p>It is this day Ordered by the Commons Houſe of Parliament, That the Aſſembly of Divines bee moved to write Letters unto ſome Divines or Churches of <hi>Zealand</hi> and <hi>Holland,</hi> and to the Proteſtant Churches in <hi>France, Switzerland,</hi> and other <hi>Reformed Churches,</hi> to informe them againſt the great Arti<g ref="char:EOLhyphen"/>fices and Diſguiſes of his Majeſties Agents in theſe parts, of the true ſtate of our affaires, and of the conſtant imployment of <hi>Iriſh</hi> Popiſh Rebels, and other Papiſts to bee Governours, Comman<g ref="char:EOLhyphen"/>ders and Souldiers, the many evidences of their intentions to introduce Popery, their indevour to hinder the Reformation here intended, and condemning other Proteſtant Churches, as unſound, becauſe not Prelaticall. And that the <hi>Scots</hi> Com<g ref="char:EOLhyphen"/>miſsioners bee deſired to joyn therein: And likewiſe that the Committees of the Lords and Commons, and of the Divines may adviſe with the <hi>Scots</hi> Commiſsioners in the Premiſes.</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <head>Die Mercurii, <hi>13</hi> Martii, <hi>1643.</hi>
+            </head>
+            <p>IT is this day ordered by the Commons Houſe of Parli<g ref="char:EOLhyphen"/>ament, That the Letter from the Aſſembly of Divines to the Reformed Churches beyond Seas ſhall be printed in Latin and Engliſh, with the ſeverall Inſcriptions to the particular ſeverall Churches, and that Mr. <hi>Selden</hi> and Mr. <hi>Rous</hi> doe acquaint the Aſſembly with this Order.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:116809:1" rendition="simple:additions"/>
+            <p>A LETTER From the ASSEMBLY of DIVINES IN <hi>ENGLAND,</hi> AND THE Commiſſioners of the Church of <hi>SCOTLAND,</hi> Written, and Sent by Order of the honorable Houſe of Commons Aſſembled in Parliament, to the <hi>Belgick, French, Helvetian,</hi> and other <hi>Reformed CHURCHES.</hi>
+            </p>
+            <p>Tranſlated into <hi>Engliſh,</hi> and now publiſhed with the ſeverall Inſcriptions to thoſe <hi>Churches. By Order of the ſaid Houſe.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> for <hi>Ralph Smith,</hi> and are to bee ſold at his ſhop, at the ſigne of the Bible in <hi>Cornhill,</hi> neere the <hi>Royall Exchange,</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116809:2"/>
+            <pb n="1" facs="tcp:116809:2"/>
+            <head>A Letter from the Aſſembly of Divines in <hi>England,</hi> and the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Church of <hi>Scotland,</hi> to the <hi>Belgick, French, Helvetian,</hi> and other <hi>Reformed Churches.</hi>
+            </head>
+            <opener>
+               <salute>Right Reverend and dearely beloved in our Lord Jeſus Chriſt,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE the Aſſembly of Divines and others, called and conveened by the Authority of both Houſes of Parliament of <hi>England,</hi> with the Commiſſioners ſent from the Generall Aſſembly of the Church of <hi>Scotland,</hi> doe heartily ſalute you in the Lord. Wee doubt not but the ſad reports of the miſeries under which the Church and Kingdome of <hi>England</hi> do bleed, and wherewith wee are all ready to bee ſwallowed up, (the cup which the righ<g ref="char:EOLhyphen"/>teous Lord hath given us to drink) is long ſince come to your ears. And it is probable that the ſame inſtruments of Satan and Antichriſt, have indevoured by their emiſ<g ref="char:EOLhyphen"/>ſaries to preſent us as black as may bee among your ſelves; who by falſehood and lyes indevour every where to put faire gloſſes upon their own bloody deſignes, and to re<g ref="char:EOLhyphen"/>proach our ſtrugglings after a more thorow Reformation
+<pb facs="tcp:116809:3"/>
+               <pb n="1" facs="tcp:116809:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:116809:4"/>of Religion in the Church of <hi>England,</hi> according to the Word of God, and our juſt defence of our lives, liber<g ref="char:EOLhyphen"/>ties, and Religion, againſt their cruell and unjuſt violen<g ref="char:EOLhyphen"/>ces. And wee ſometimes doubt whether wee have not been wanting to our own innocency and your ſatisfaction, in being thus long ſilent, from giving you a faithfull, though ſorrowfull, relation of the ſtate wherein wee ſtand. But pardon us <hi>deare Brethren,</hi> if this Cup of trembling, wherewith our ſpirits have been filled to amazement, and our wreſtlings with extreame difficulties ever ſince our meeting, have hindred us from that which wee long ſince knew to bee our duty. And give us leave now a little to eaſe our griefe, by powring our hearts into your boſomes, while wee relate the deſolation made by an Antichriſtian faction, who amongſt us have ſtill been hindring the work of Reformation, and withall introducing and cheriſhing of Popery; and are now arrived at that ſtrength, and have prevailed ſo farre againſt us, that if the Lord, whoſe judg<g ref="char:EOLhyphen"/>ments are unſearchable, and whoſe tender mercies are in<g ref="char:EOLhyphen"/>numerable, doe not ſpeedily help us, wee ſhall even al<g ref="char:EOLhyphen"/>together bee laid waſte by them.</p>
+            <p>How great a hand this treacherous and bloody generation amongſt us, have long had in the miſeries of other Reformed Churches, in the deſtruction of the <hi>Palatinate;</hi> and in the betraying and, loſſe of <hi>Rochell,</hi> and how, by ſeeming overtures of Ambaſſies and Treaties for their reliefe, they have fomented, con<g ref="char:EOLhyphen"/>tinued, and encreaſed their calamities; are ſo fully known by you all, and miſerably felt by ſome of your ſelves, that we need not ſpeak any thing of them. And we ſuppoſe their inveterate hatred <hi>againſt you all,</hi> is ſufficiently mani<g ref="char:EOLhyphen"/>feſted, in that multitudes of them have refuſed to acknow<g ref="char:EOLhyphen"/>ledge any of you for Churches of Chriſt, <hi>becauſe you are not Prelaticall,</hi> and thereby (as they conceive) want
+<pb n="3" facs="tcp:116809:4"/>a lawfull Vocation of Miniſters. Sure wee are, that a<g ref="char:EOLhyphen"/>mongſt our ſelves in all theſe three Kingdomes, they have prevailed ſo farre in advancing Popery, and depreſsing Religion, that it would require a Volume, rather than a Letter, to relate all the particulars. Scarce one thing can bee thought upon, which may bee ſuppoſed to bee an argument of any intent to ſet up Popery, and even ex<g ref="char:EOLhyphen"/>tirpate the true Reformed Religion, but wee could give you abundant inſtances, that they have not onely attemp<g ref="char:EOLhyphen"/>ted, but in great meaſure prevailed for the putting thereof in execution. All the good and juſt Laws of this Kingdome againſt Papiſts, (concerning their lives, liberties, and goods) ſuſpended; Judges prohibited to proceed againſt condemned Prieſts; and even Jeſuites ſet free: Houſes of Superſtition in <hi>Ireland</hi> and <hi>England</hi> ſet up, and not diſcoun<g ref="char:EOLhyphen"/>tenanced: (beſide the ſeldome or never queſtioned tranſ<g ref="char:EOLhyphen"/>portation of many young perſons to Seminaries in fo<g ref="char:EOLhyphen"/>raine parts) Notorious Papiſts, contrary to known Laws, permitted to come to Court, to reſide there, and enjoy the favour and preferment of it: Multitudes of them re<g ref="char:EOLhyphen"/>leaſed from legall Penalties for time paſt, and time to come; Proſecuters of them checked and diſcountenan<g ref="char:EOLhyphen"/>ced; Agents ſent from hence into <hi>Italy;</hi> Nuntioes and Agents from Rome received and treated with; ſuch as warped that way, cheriſhed and advanced; the moſt zealous Miniſters &amp; Profeſſors of Religion bitterly perſe<g ref="char:EOLhyphen"/>cuted. And all theſe things ſo apparent, that abundance of Popiſhly affected Prelates and Miniſters adventured in e<g ref="char:EOLhyphen"/>very part of the Kingdome publickly to preach and leaven their people with almoſt all points of Popery, (except the Supremacy) and to introduce abundance of corrupt innovations in the worſhip of God, compelling the peo<g ref="char:EOLhyphen"/>ple to yeeld conformity to them, with perſecuting ſuch as would not. Inſomuch as many who looked at
+<pb n="4" facs="tcp:116809:5"/>Religion onely for outward advantage, found it beſt for their gaine and ſafety to turne Papiſts: And many godly Miniſters, who would not publiſh a book purpoſely ſet forth to allow ſuch ſports on the Lords day, which the Reformed Churches thinke unlawfull at any time; or who would not conforme themſelves to their other ſuperſtiti<g ref="char:EOLhyphen"/>ons; have had their mouthes ſtopped, and many thou<g ref="char:EOLhyphen"/>ſands of their people with them compelled to ſeeke for refuge amongſt your ſelves, or in remote parts of the world.</p>
+            <p>Yea ſo farre they had advanced in their preſumption, as to impoſe upon the whole Kingdome of <hi>Scotland</hi> a new Popiſh book of Service, Rites, and Ceremonies; and a book of Canons: To which when the piety and zeale of that Nation would not ſubmit, they prevailed (alas) with his Majeſty to proclaime them Rebels and Traytors, &amp; to raiſe a formidable army againſt them; to which <hi>all the Papiſts,</hi> &amp; popiſhly affected did profeſſedly contribute their beſt aſſiſtance. And certainely had not the Lord by his bleſſing upon the <hi>Scotiſh</hi> Army, by the manifeſtation and acknowledgement of the wrongs done them, by the cal<g ref="char:EOLhyphen"/>ling of this Parliament, and their godly care to cleare the Innocency of their Brethren, and by the Treaty of Peace concluded betwixt the two Kingdomes, prevented it, the two Nations long ſince through the treachery and rage of theſe brutiſh men, had beene embrewing their hands in each others bloud.</p>
+            <p>But though, through the goodneſſe of God and his bleſſing upon the publike Counſells and proceed<g ref="char:EOLhyphen"/>ings of both Nations of <hi>England</hi> and <hi>Scotland,</hi> they were more cloſely and mutually conjoyned; and the Lord had raiſed up ſuch a ſpirit throughout this whole King<g ref="char:EOLhyphen"/>dom to mourne after the Lord, to lament our backſlidings, and to deſire a perfect Reformation; and had ſo inclined
+<pb n="5" facs="tcp:116809:5"/>the hearts of the Honorable Senators convened in Parlia<g ref="char:EOLhyphen"/>ment, to repaire the houſe of the Lord among us, that wee verily hoped our winter to be paſt, and the time of our re<g ref="char:EOLhyphen"/>freſhing and healing to be come: Yet alas we find it to be clean otherwiſe: Our God who before was a <hi>moth</hi> and <hi>rot<g ref="char:EOLhyphen"/>tenneſſe,</hi> is now turned unto a <hi>Lyon</hi> to us. Wee know our ſinnes have deſerved all; and if we all dye and periſh, yet the Lord is righteous, to his hand we ſubmit, and to him a<g ref="char:EOLhyphen"/>lone we deſire to look for healing: Howbeit the Inſtru<g ref="char:EOLhyphen"/>ments of theſe new miſeries are the ſame Antichriſtian fa<g ref="char:EOLhyphen"/>ction, Who have beene ſo farre from being diſcouraged, or giving over their former deſigne by their want of ſuc<g ref="char:EOLhyphen"/>ceſſe in <hi>Scotland,</hi> or in beholding the fixed reſoluti<g ref="char:EOLhyphen"/>on of the Parliament here for Reformation, that their rage and diligence therein is more increaſed ſince the be<g ref="char:EOLhyphen"/>ginning of the Parliament, then at any time before. And indeed have more prevailed; both by ſtirring up a bloo<g ref="char:EOLhyphen"/>dy Rebellion in <hi>Ireland,</hi> wherein (as the Papiſts them<g ref="char:EOLhyphen"/>ſelves boaſt) they have deſtroyed above a hundred thou<g ref="char:EOLhyphen"/>ſand Proteſtants in one Province, within a few moneths: And in <hi>England,</hi> by alienating the heart of his Majeſty from his Parliament, which had begun to call many of them to account for their former miſchiefes. And (after an attempt to ſurprize ſome Members of both Houſes in an hoſtile manner) prevailing with his Majeſty to with<g ref="char:EOLhyphen"/>draw himſelfe from the Parliament, and to raiſe an Army, which at firſt, pretended onely to bee made up of Pro<g ref="char:EOLhyphen"/>teſtants; but the Papiſts knew their intents, who both here and beyond the Seas, had frequent prayers for the good ſucceſſe of this great work intended in <hi>England,</hi> for the advancing of the Catholick Cauſe; And ſpared not in <hi>England</hi> to boaſt, that they were not to appeare untill many Proteſtants were ingaged ſo farre, that they might
+<pb n="6" facs="tcp:116809:6"/>not ſtart backe, and then they were to own it, which accordingly is come to paſſe. For when once many ſeem<g ref="char:EOLhyphen"/>ing Proteſtants were ingaged upon pretence of the Kings Prerogative, and Priviledges of Parliament, and Prote<g ref="char:EOLhyphen"/>ſtant Religion, (which Proteſtants yet for the moſt part were the ſame who before the beginning of theſe ſtirres had been by the publick Judicatory of the Kingdom, im<g ref="char:EOLhyphen"/>peached of Treaſon, Oppreſſion, and other high crimes and miſdemeanors; and others who knew themſelves guilty thereof; and other corrupt parties of the Clergy and their adherents) preſently the Papiſts (who before were ſpared from all plunder and violence where ever the Kings Forces came, though many Proteſtants, who even held not for the Parliament, were rifled) were arm<g ref="char:EOLhyphen"/>ed by Commiſſion from the King, and promiſe of repay<g ref="char:EOLhyphen"/>ment for their armes, if they were loſt; Many great Pa<g ref="char:EOLhyphen"/>piſts being put into places of Command in ſeverall parts of the Kingdom; and the body of all the Papiſts joyn<g ref="char:EOLhyphen"/>ing with all their might, and profeſſing and exerciſing their Religion even by publike Maſſes in divers parts of the Realme: And thus aſſiſted with ammunition, Men, and Money, from other parts (deluded by their faire gloſ<g ref="char:EOLhyphen"/>ſes and pretences) they goe up and down, plunder, and murder, and ſpoile all ſuch as adhere to the Parliament and cauſe of Religion.</p>
+            <p>And although, when the Parliament ſaw that theſe wick<g ref="char:EOLhyphen"/>ed inſtruments prevailed with the King, to raiſe force to be protected from the juſtice of the Laws (which the Parlia<g ref="char:EOLhyphen"/>ment went about to inflict upon them for their former Trea<g ref="char:EOLhyphen"/>ſons and other high crimes) and to accompliſh their for<g ref="char:EOLhyphen"/>mer deſignes, they endeavored to ſecure the Forts &amp; Navy &amp; provide meanes for the defence of themſelves, and of Laws, Liberties, and Religion (all which theſe men in<g ref="char:EOLhyphen"/>devoured
+<pb n="7" facs="tcp:116809:6"/>to deſtroy;) Yet ſuch hath been their cunning, by falſe gloſſes to hide their own intention, and to ſe<g ref="char:EOLhyphen"/>duce others, Or rather, ſuch is the righteous judgement of our now angry God, for our abuſe of our long peace that wee have not yet been able by Supplications, Peti<g ref="char:EOLhyphen"/>tions, and Remonſtrances, to recover his Majeſty out of their hands; or to bring theſe men to deſerved puniſh<g ref="char:EOLhyphen"/>ments; but the ſword rageth almoſt in every corner of this wofull land.</p>
+            <p>And, to make up our miſery to the full, they have now at laſt prevailed with his Majeſty ſo farre to own the bloo<g ref="char:EOLhyphen"/>dy Rebels in <hi>Ireland,</hi> as not onely to call them his <hi>Roman-Catholick Subjects now in Arms, &amp;c.</hi> but even to grant them a Ceſſation for a yeare, (when they were brought into great extremity) and to hold what they have gotten, li<g ref="char:EOLhyphen"/>berty to ſtrengthen themſelves, with Men, Money, Arms, Ammunition from any place, freedome to ſend or come to his Majeſty; and thereby bee not only inabled to de<g ref="char:EOLhyphen"/>ſtroy the remnant of the Proteſtants there, but to come over hither, (as many of them are already) to act the ſame butcheries upon us, as they have hitherto exerciſed upon our miſerable and diſtreſſed Brethren among them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>In theſe deplorable calamities are wee involved: and in the midſt of theſe troubleſome times, have the hono<g ref="char:EOLhyphen"/>rable Houſes of Parliament, called this Aſſembly, to give them our beſt Counſell for the Reformation of the Church, for the purging and preſerving of Religion: and require us to make Gods Word onely our Rule, and to indevour the neereſt conformity to the beſt Refor<g ref="char:EOLhyphen"/>med Churches, and uniformity in all the Churches of the three Kingdomes. And in this work wee are now exerci<g ref="char:EOLhyphen"/>ſed, though the enemy hath ſtirred up the heart of our
+<pb n="8" facs="tcp:116809:7"/>deare and dread Soveraign againſt us alſo: Yet through the good hand of God upon us, wee have made ſome comfortable beginnings: The work is his, who com<g ref="char:EOLhyphen"/>mands us not to deſpiſe the day of ſmall things.</p>
+            <p>Thus (Reverend and Deare Brethren) wee have given you the face, or rather the ſhadow, (for what words are able to expreſſe the face?) of our miſerable condition in <hi>England:</hi> Our civill Liberties in danger to bee loſt, our goods ſpoiled, our houſes plundered, our blood poured out in every corner: (things though otherwiſe very preci<g ref="char:EOLhyphen"/>ous to us wee omit to mention.) If our God wil lay our bo<g ref="char:EOLhyphen"/>dies as the ground, and as the duſt under their feet; the will of the Lord bee done: Might our blood bee a Sa<g ref="char:EOLhyphen"/>crifice to ranſome the reſt of the Saints of Chriſt from antichriſtian fury, moſt gladly would wee offer it upon this ſervice. But that which breaks our hearts is, the dan<g ref="char:EOLhyphen"/>ger wee behold the Proteſtant Religion, and all the Re<g ref="char:EOLhyphen"/>formed Churches in at this time. Wee know their rage is inſatiable, and will not bee quenched with our blood: their fury is kindled againſt us, not as wee are ſinfull men, but as men ingaged in the defence of the true Religion, and panting after a right Reformation: And if once the Lord deliver us as a prey into their teeth, Oh the dark<g ref="char:EOLhyphen"/>neſſe and horrour, the bondage, ſlavery and perſecution, which all who will not receive the mark of the beaſt, are like to bee wrapped in, in theſe three wofull Kingdomes! And not here only, but they are like to attempt the ſame in all the Reformed Churches in <hi>Europe.</hi> Your owne thoughts can eaſily ſuggeſt unto you, with what rage the beaſt which came out of the bottomleſſe pit, the Wo<g ref="char:EOLhyphen"/>man who hath thus long drunk the blood of the Saints is filled now before her utter deſtruction, againſt that Virgin Company that follow the Lamb.</p>
+            <pb n="9" facs="tcp:116809:7"/>
+            <p>The Church and Kingdome of <hi>Scotland,</hi> have been willing and ready by all good meanes to quench this un<g ref="char:EOLhyphen"/>naturall fire. They have ſent their humble Supplications, Remonſtrances, and Declarations to his Majeſty: And at laſt made offer of their humble Mediation, and Na<g ref="char:EOLhyphen"/>tionall interceſſion, for a Pacification. All which being refuſed and rejected, they have entered into a mutuall League and Covenant with the Church and Kingdome of <hi>England;</hi> and have reſolved to joyn in Arms with their Brethren for their aſſiſtance and deliverance, for the preſervation of their own Religion, &amp; of themſelves from the mercileſſe cruelty of the common enemy, and (ſo farre as in them lyeth) for the ſafety of their Native King, and his Kingdoms from deſtruction and deſolation, (as is more largely expreſſed in their publick Declaration, and in the Solemne League and Covenant of the three Kingdomes, which will give full ſatisfaction to all the wiſe and well-affected concerning their intentions.) They have alſo, according to the deſire of the Honourable Houſes of Parliament, ſent us their Commiſſioners hi<g ref="char:EOLhyphen"/>ther, for uniformity of Religion in the Churches of both Kingdoms. And wee (their Commiſſioners) do exceed<g ref="char:EOLhyphen"/>ingly rejoyce to behold the Foundation of the Houſe of God, not only in Doctrine, but Church-Government, laid before our eyes in a reverend Aſſembly of ſo wiſe, learned, and godly Divines. And find our ſelves bound in all Chriſtian duty, but eſpecially by the late Solemne League and Covenant of both Kingdomes, wherein wee are ſo deepely intereſſed and ingaged, to joyne in repre<g ref="char:EOLhyphen"/>ſenting to the Reformed Churches abroad, the true con<g ref="char:EOLhyphen"/>dition of affaires here, againſt all miſ-informations and miſtakings.</p>
+            <p>And now (deare Brethren) in this extreame danger
+<pb n="10" facs="tcp:116809:8"/>threatning us all, what are the things wee can begge of you? But that firſt you would judge aright of our afflicted condition, of our innocency and integrity in this our juſt defence. If our Enemies every where calumniate us, that we be riſen up in Rebellion againſt our Soveraigne to de<g ref="char:EOLhyphen"/>prive him of his juſt power and greatneſſe, and endeavour to bring Anarchy and confuſion into the Church of Chriſt; from theſe foule and falſe aſperſions, our intentions fully and clearely ſet forth in our ſolemne League and Covenant (the copy whereof we here withall humbly preſent you) wee doubt not will ſufficiently cleare us. But if theſe children of <hi>Beliall</hi> have unjuſtly ſtirred up our So<g ref="char:EOLhyphen"/>veraigne againſt us, and by abuſing his Majeſties name and Authority, are labouring to keepe themſelves from de<g ref="char:EOLhyphen"/>ſerved puniſhment of their former crimes, which the ſu<g ref="char:EOLhyphen"/>preme Judicatories of the Kingdome went about to inflict upon them, and to deprive us of our lives, Liberties, Privi<g ref="char:EOLhyphen"/>ledges, and eſpecially of our Religion; And that our defen<g ref="char:EOLhyphen"/>ſive Arms are by us uſed and intended onely to preſerve our ſelves from their unjuſt violence: (which hath often beene the condition of many of your ſelves) Let the righ<g ref="char:EOLhyphen"/>teous Lord judge between us and them; whom we implore to helpe us no further then we can plead theſe things in ſincerity before him: And let our deare Brethren to whom theſe letters are addreſſed, acquit our Innocency in their hearts, and make their Apologie for us in all their Churches.</p>
+            <p>Secondly, that yee will ſympathize with us as Brethren, who ſuffer in, and for the ſame cauſe, wherein your ſelves have beene oppreſſed, which will be no little refreſhing to our mourning ſpirits, when we ſhall know that our God who ſmites us, yet inclines the hearts of his beloved Churches to looke upon us with compaſſionate bowells,
+<pb n="11" facs="tcp:116809:8"/>as judging us to be the ſervants of their owne God, and Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt, and as remembring themſelves to be in the body.</p>
+            <p>Thirdly and laſtly, That as all the Antichriſtian facti<g ref="char:EOLhyphen"/>on ownes the cauſe of our Adverſaries as their owne, and contributes what lyes in their power every way to their helpe, and our ruine: So that you would imbrace our condition, as your owne common cauſe, wherein if we be once ſwallowed up, your ſelves are not like long to eſcape; the quarrell of the enemy being not ſo much a<g ref="char:EOLhyphen"/>gainſt the perſons of men, as againſt the power of God<g ref="char:EOLhyphen"/>lineſſe, and Purity of Gods word wherever it is profeſſed. The way and manner of your owning us, we leave whol<g ref="char:EOLhyphen"/>ly to your ſelves: Except this one particular, which we muſt importunately crave, even your fervent prayers both publike and private. That God who heareth pray<g ref="char:EOLhyphen"/>er, now he hath humbled us and broken all our Arms of Fleſh (whereon alas we have beene too prone to leane) would himſelfe bring ſalvation to us, that the bleſſings of truth and peace might reſt upon us, that theſe three Nati<g ref="char:EOLhyphen"/>ons may be joyned as one ſtick in the hand of the Lord, and that we our ſelves, contemptible builders, called to repaire the Houſe of God in a troubleſome time, being aſhamed of our former pollutions, may ſee the patterne of this Houſe, and commend ſuch a platforme to our <hi>Zo<g ref="char:EOLhyphen"/>robabells,</hi> as may be moſt agreeing to his own ſacred word, neareſt conformity to the beſt Reformed Churches, and greateſt uniformity amongſt our ſelves, that all moun<g ref="char:EOLhyphen"/>tains may become plains before them and us, that then all who now ſee the plummet in our hands, may alſo be<g ref="char:EOLhyphen"/>hold the Top ſtone ſet upon the head of the Lords houſe amongſt us, and may help us with ſhouting to cry, Grace, Grace unto it.</p>
+            <pb n="12" facs="tcp:116809:9"/>
+            <p>And thus much we have beene willed to Informe you of, <hi>Reverend Brethren,</hi> (and by you all faithfull Chriſtians under your Charges,) by the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons: In whoſe name and in our own we bid you hear<g ref="char:EOLhyphen"/>tily farewell <hi>in the Lord.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your moſt affectionately devoted Brethren in Chriſt,</hi>
+                  <list>
+                     <item>Commiſſioners of the Church of <hi>Scotland.</hi>
+                        <list>
+                           <item>
+                              <hi>Jo. Maitland,</hi>
+                           </item>
+                           <item>
+                              <hi>A. Jhonſton,</hi>
+                           </item>
+                           <item>
+                              <hi>Alex. Henderſon,</hi>
+                           </item>
+                           <item>
+                              <hi>Sam. Rutherfurd,</hi>
+                           </item>
+                           <item>
+                              <hi>Rob. Bailyie.</hi>
+                           </item>
+                           <item>
+                              <hi>Geo. Gilleſpie.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>William Twiſſe,</hi> Prolocutor,</item>
+                     <item>
+                        <hi>Cornel. Burges,</hi> Aſſeſſor,</item>
+                     <item>
+                        <hi>Jo. White,</hi> Aſſeſſor,</item>
+                     <item>
+                        <hi>Henry Robrough,</hi> Scribe,</item>
+                     <item>
+                        <hi>Adoniram Byfield,</hi> Scribe.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="inscriptions">
+            <pb n="13" facs="tcp:116809:9"/>
+            <head>THE Severall Inſcriptions to THE REFORMED CHVRCHES.</head>
+            <list>
+               <label>Zealand.</label>
+               <item>TO the Reverend and Learned Paſtors and Elders of the Claſſes and Churches of the Province of <hi>Zealand,</hi> our much Honoured Brethren.</item>
+               <label>Holland.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Claſ<g ref="char:EOLhyphen"/>ſes, and Churches of the Province of <hi>Holland,</hi> our much Ho<g ref="char:EOLhyphen"/>noured Brethren.</item>
+               <label>Eaſt-Holland.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Claſ<g ref="char:EOLhyphen"/>ſes and Churches of <hi>Eaſt-Holland,</hi> our much Honoured Bre<g ref="char:EOLhyphen"/>thren.</item>
+               <label>Gelderland.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Claſ<g ref="char:EOLhyphen"/>ſes and Churches of the Province of <hi>Gelderland,</hi> our much ho<g ref="char:EOLhyphen"/>noured Brethren.</item>
+               <label>Over Yſell.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Claſ<g ref="char:EOLhyphen"/>ſes and Churches of the Province of <hi>Over Yſell,</hi> our much ho<g ref="char:EOLhyphen"/>noured Brethren.</item>
+               <pb n="14" facs="tcp:116809:10"/>
+               <label>Utrecht.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Claſ<g ref="char:EOLhyphen"/>ſes and Churches of the Province of <hi>Utrecht,</hi> our much Ho<g ref="char:EOLhyphen"/>noured Brethren.</item>
+               <label>Frizeland.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Claſ<g ref="char:EOLhyphen"/>ſes and Churches of the Province of <hi>Frizeland,</hi> our much ho<g ref="char:EOLhyphen"/>noured Brethren.</item>
+               <label>Groningen.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Claſ<g ref="char:EOLhyphen"/>ſes and Churches of the Province and City of <hi>Grohingen,</hi> our much honoured Brethren.</item>
+               <label>Geneva.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Church in the City and Republick of <hi>Geneva,</hi> our much honoured Bre<g ref="char:EOLhyphen"/>thren.</item>
+               <label>Berne.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Chur<g ref="char:EOLhyphen"/>ches of <hi>Berne,</hi> our much honoured Brethren.</item>
+               <label>Zurich.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Chur<g ref="char:EOLhyphen"/>ches of <hi>Zurich,</hi> our much honoured Brethren.</item>
+               <label>Bazell.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Chur<g ref="char:EOLhyphen"/>ches of <hi>Bazell,</hi> our much honoured Brethren.</item>
+               <label>Schafhauſen.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Chur<g ref="char:EOLhyphen"/>ches of <hi>Schafhauſen,</hi> our much honoured Brethren.</item>
+               <label>Paris.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the
+<pb n="15" facs="tcp:116809:10"/>Church which is at <hi>Paris,</hi> our much honoured Brethren.</item>
+               <label>Heſſen.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Claſ<g ref="char:EOLhyphen"/>ſes and Churches of <hi>Heſſen,</hi> our much honoured Brethren.</item>
+               <label>Anhalt.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Claſ<g ref="char:EOLhyphen"/>ſes and Churches of <hi>Anhalt,</hi> our much honoured Brethren.</item>
+               <label>Hanaw.</label>
+               <item>To the Reverend and learned Paſtors and Elders of the Chur<g ref="char:EOLhyphen"/>ches of <hi>Hanaw,</hi> our much honoured Brethren.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
